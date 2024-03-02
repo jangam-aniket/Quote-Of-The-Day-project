@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #fe4a49;
+}
+
+#quoteBox_heading {
+  margin: 5% 40%;
+  font-size: 2rem;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 600px;
+  margin: 4% 26%;
+  border: 10px solid #fed766;
+  border-radius: 10px;
+  background-color: #2ab7ca;
+}
+
+#quoteBox {
+  color: #1f2041;
+  margin-left: 10px;
+  font-size: 1.3rem;
+}
